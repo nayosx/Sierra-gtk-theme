@@ -1,3 +1,7 @@
+*Important
+En el caso que no te guste el tema puedes obtar por el noobslab
+https://www.noobslab.com/2018/08/macbuntu-1804-transformation-pack-ready.html
+
 <img src="https://github.com/vinceliuice/Sierra-gtk-theme/blob/imgs/logo.png" alt="Logo" align="right" /> Sierra Gtk Theme
 ======
 
